@@ -1,8 +1,8 @@
 language: generic
 deploy:
   provider: s3
-  access_key_id: AKIAISRNPKPCFPTHMDGQ
-  secret_access_key: 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
+  access_key_id: AKIAJI4GLUM6VW4DEWRQ
+  secret_access_key: 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
   bucket: webprogrammingforgit
   on:
     repo: Edocksil/Hello-world
