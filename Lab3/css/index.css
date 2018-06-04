@@ -11,20 +11,7 @@
 .column1 {
     display: flex;
     width: 25%;
-    flex-direction: column;
 }
-
-/*canvas{*/
-/*width: 600px;*/
-/*height: 460px;*/
-/*margin-left: 1vw;*/
-/*}*/
-/*#scp173 {*/
-/*float: left;*/
-/*margin-right: 5px;*/
-/*position: relative;*/
-/*cursor: pointer;*/
-/*}*/
 article {
     width: 72vw;
     border-radius: 20px;
